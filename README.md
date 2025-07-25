@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Edimike501
-- 👀 I’m interested in ... Front End Development 
-- 🌱 I’m currently learning ... JavaScript 
-- 💞️ I’m looking to collaborate on ... JavaScript and Node.js
+- 👋 Hi, I’m @Edimike501, also called DevMyke (CodeWithMyke)
+- 👀 I’m interested in Web, App and AI Development 
+- 🌱 I’m currently learning App Dev, soon to enter into AI Dev 
+- 💞️ I’m looking to collaborate on ... JavaScript, Python and other AI Projects
 - 📫 How to reach me ... Jones Coleman on Facebook 
 
 <!---
