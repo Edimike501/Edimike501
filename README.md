@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://codewithmyke.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-codewithmyke.vercel.app-1834ae?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/edimike-edimike-201ba225a"><img src="https://img.shields.io/badge/LinkedIn-Connect-e07f2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/osinachi-michael/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e07f2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/D3v_Myk3"><img src="https://img.shields.io/badge/X-@D3v__Myk3-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:devmyke24@gmail.com"><img src="https://img.shields.io/badge/Email-devmyke24@gmail.com-1834ae?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -124,7 +124,7 @@ I'm on a deliberate track to deepen my AI Engineering and systems-scaling skills
 <p align="center">
   <a href="https://codewithmyke.vercel.app/">Portfolio</a> ·
   <a href="mailto:devmyke24@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/edimike-edimike-201ba225a">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/osinachi-michael/">LinkedIn</a> ·
   <a href="https://x.com/D3v_Myk3">X (Twitter)</a> ·
   <a href="https://wa.me/2349128093115">WhatsApp</a>
 </p>
