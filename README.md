@@ -2,7 +2,7 @@
 <h3 align="center">Senior Backend-Focused Software Engineer | Full-Stack Systems | AI Automation</h3>
 
 <p align="center">
-  <a href="https://codewithmyke.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-codewithmyke.vercel.app-1834ae?style=for-the-badge" /></a>
+  <a href="https://osinachi-michael.techclimesolutions.com/"><img src="https://img.shields.io/badge/Portfolio-codewithmyke.vercel.app-1834ae?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/osinachi-michael/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e07f2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/D3v_Myk3"><img src="https://img.shields.io/badge/X-@D3v__Myk3-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:devmyke24@gmail.com"><img src="https://img.shields.io/badge/Email-devmyke24@gmail.com-1834ae?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,7 +19,7 @@ I'm a backend-focused Software Engineer with **5+ years of experience** designin
 - 🏗️ Full-Stack Engineer at **Webblizz Networks**, delivering rental & e-commerce platforms
 - 🤖 Actively building **AI-driven automation pipelines** — task classification, document summarization, and intelligent workflow routing using OpenAI APIs
 <!-- - 🎓 Passionate about **teaching** — I design and deliver backend engineering curricula for upcoming developers --->
-- 📫 Reach me: **devmyke24@gmail.com** · [Portfolio](https://codewithmyke.vercel.app/) · [WhatsApp](https://wa.me/2349128093115)
+- 📫 Reach me: **devmyke24@gmail.com** · [Portfolio](https://osinachi-michael.techclimesolutions.com/) · [WhatsApp](https://wa.me/2349128093115)
 
 ---
 
@@ -122,7 +122,7 @@ I'm on a deliberate track to deepen my AI Engineering and systems-scaling skills
 ### 🤝 Let's Build Something
 
 <p align="center">
-  <a href="https://codewithmyke.vercel.app/">Portfolio</a> ·
+  <a href="https://osinachi-michael.techclimesolutions.com/">Portfolio</a> ·
   <a href="mailto:devmyke24@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/osinachi-michael/">LinkedIn</a> ·
   <a href="https://x.com/D3v_Myk3">X (Twitter)</a> ·
