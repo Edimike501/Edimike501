@@ -2,7 +2,7 @@
 <h3 align="center">Senior Backend-Focused Software Engineer | Full-Stack Systems | AI Automation</h3>
 
 <p align="center">
-  <a href="https://osinachi-michael.techclimesolutions.com/"><img src="https://img.shields.io/badge/Portfolio-codewithmyke.vercel.app-1834ae?style=for-the-badge" /></a>
+  <a href="https://osinachi-michael.techclimesolutions.com/"><img src="https://img.shields.io/badge/Portfolio-osinachi-michael.techclimesolutions.com-1834ae?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/osinachi-michael/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e07f2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/D3v_Myk3"><img src="https://img.shields.io/badge/X-@D3v__Myk3-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:devmyke24@gmail.com"><img src="https://img.shields.io/badge/Email-devmyke24@gmail.com-1834ae?style=for-the-badge&logo=gmail&logoColor=white" /></a>
